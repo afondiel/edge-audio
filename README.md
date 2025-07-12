@@ -165,5 +165,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute, repo
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
