@@ -8,14 +8,15 @@ A practical guide for real-world AI audio applications for resource-constrained 
 
 - Start with the [Edge AI Engineering](https://github.com/afondiel/edge-ai-engineering): a practical guide covering core concepts of the entire [Edge AI MLOps](https://docs.edgeimpulse.com/docs/concepts/edge-ai-fundamentals/what-is-edge-mlops) stack with industry blueprints.
 - Then read this: [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
+- Related work: [Edge Vision](https://github.com/afondiel/edge-vision)
 
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
+- [Resources](#resources)
 
 ## Introduction
 
@@ -165,3 +166,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute, repo
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Resources
+
+- [Computer Audio Notes](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/computer-audition)
+- [The Hugging Face Course on Transformers for Audio](https://github.com/huggingface/audio-transformers-course)
+
+Books:
+- [Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems (Vijay Janapa Reddi)](https://mlsysbook.ai/)
+
+[Back to the Top](#table-of-contents)
