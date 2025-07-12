@@ -6,7 +6,7 @@ A practical guide for real-world AI audio applications for resource-constrained 
 
 ## New to Edge AI? 
 
-- Start with the [Edge AI Engineering](https://github.com/afondiel/edge-ai-engineering): a practical guide covering core concepts of the entire Edge AI MLOps stack with industry standards in mind.
+- Start with the [Edge AI Engineering](https://github.com/afondiel/edge-ai-engineering): a practical guide covering core concepts of the entire [Edge AI MLOps](https://docs.edgeimpulse.com/docs/concepts/edge-ai-fundamentals/what-is-edge-mlops) stack with industry blueprints.
 - Then read this: [The Next AI Frontier is at the Edge](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/)
 
 ## Table of Contents
@@ -23,38 +23,38 @@ The goal of this guide is to provide resources for building, optimizing, and dep
 
 ### Key Concepts
 
-Industry Landscape
-- **Autonomous Systems**
-- **Healthcare & Medical Imaging**
-- **Retail & Consumer Analytics**
-- **Security & Surveillance**
-- **Agriculture & Precision Farming**
-- **Manufacturing & Quality Control**
-- **Smart Cities & Urban Planning**
+**Industry Blueprints**
+- Autonomous Systems
+- Healthcare & Medical Imaging*
+- Retail & Consumer Analytics
+- Security & Surveillance
+- Agriculture & Precision Farming
+- Manufacturing & Quality Control
+- Smart Cities & Urban Planning
 
-Edge Optimization Lab: Techniques and tools for maximizing performance and efficiency of audio models on edge hardware:
-- **Model Quantization**
-- **Pruning Techniques**
-- **Federated Learning**
-- **Compiler Targets**
-- **Hardware-Specific Optimization**
+**Edge Optimization Lab**: techniques and tools for maximizing performance and efficiency of audio models on edge hardware
+- Model Quantization
+- Pruning Techniques
+- Federated Learning
+- Compiler Targets
+- Hardware-Specific Optimization
 
-Production Pipelines: Guides and templates for robust, scalable edge audio AI operations:
+**Production Pipelines**: guides and templates for robust, scalable edge audio AI operations
 - CI/CD for Edge
 - Monitoring (Drift Detection, Edge Metrics Dashboard)
 - OTA Updates
 - Edge Security (Secure Boot, Data Encryption, Threat Detection, Privacy-Preserving Audio, Adversarial Robustness, Device Hardening, Compliance)
 
-Reference Architectures: Blueprints for edge audio hardware and system design:
+**Reference Architectures**: blueprints for edge audio hardware and system design
 - Microphone Array Setups
 - Edge Server Specs
 - IoT Connectivity
 - Edge-Cloud Hybrid Models
 
-Integration:
-- CS Notebook Redirects (theoretical deep dives)
+**Integration**
+- Notebooks (hands-on deep dives)
 - Companion Resources
-- Industry-Specific Regulations
+- Industry-Specific Stardards
 
 ## Project Structure
 
@@ -69,7 +69,6 @@ Integration:
 │   ├── privacy-and-security.md
 │   ├── edge-ai-frameworks.md
 │   └── benchmarking-and-performance.md    
-
 ├── industry-blueprints/
 │   ├── autonomous-systems/
 │   │   ├── voice-command-recognition-tflite.md
@@ -99,7 +98,6 @@ Integration:
 │       ├── urban-noise-mapping-edge.md
 │       ├── emergency-sound-detection.md
 │       └── public-transport-announcement-monitoring.md
-
 ├── edge-optimization-lab/
 │   ├── model-quantization/
 │   │   ├── post-training-int8.md
@@ -117,7 +115,6 @@ Integration:
 │       ├── nvidia-jetson-optimization.md
 │       ├── raspberry-pi-edge-audio.md
 │       └── microcontroller-tinyml-audio.md
-
 ├── production-pipelines/
 │   ├── ci-cd-for-edge.md
 │   ├── monitoring/
@@ -141,18 +138,15 @@ Integration:
 │       └── industry-compliance/
 │           ├── regulatory-standards.md
 │           └── ethical-ai-guidelines.md
-
 ├── reference-architectures/
 │   ├── microphone-array-setups.md
 │   ├── edge-server-specs.md
 │   ├── iot-connectivity.md
 │   └── edge-cloud-hybrid-models.md
-
 └── _integration/
     ├── cs-notebook-redirects.md
     ├── companion-resources.md
     └── industry-specific-regulations.md
-
 ```
 
 ## Getting Started
@@ -160,9 +154,9 @@ Integration:
 ```bash
 git clone https://github.com/afondiel/edge-audio.git
 ```
-2. Explore the `edge-ai-engineering` section for foundational knowledge.
-3. Dive into `industry-blueprints` for hands-on, sector-specific audio AI guides.
-4. Use the `edge-optimization-lab` and `production-pipelines` for deployment and scaling.
+2. Explore the [Edge AI Engineering](#edge-ai-engineering) section for foundational knowledge.
+3. Dive into [Industry Blueprints](#key-concepts) for hands-on, sector-specific audio AI guides.
+4. Use the [Edge Optimization Lab](#key-concepts)  and [Production Pipeline](#key-concepts) for deployment and scaling.
 
 ## Contributing
 
