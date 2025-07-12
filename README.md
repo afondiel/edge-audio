@@ -21,7 +21,7 @@ A practical guide for real-world AI audio applications for resource-constrained 
 
 ## Introduction
 
-The goal of this guide is to provide resources for building, optimizing, and deploying AI audio applications at the edge audio application at edge through hands-on examples including practical notebooks and real-world use cases across key industries.
+The goal of this guide is to provide resources for building, optimizing, and deploying AI audio applications at the edge, through hands-on examples including practical notebooks and real-world use cases across key industries.
 
 ### Core Concepts Covered
 
