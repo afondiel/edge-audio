@@ -12,12 +12,10 @@ A practical guide for real-world AI audio applications for resource-constrained 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Industry Landscape](#industry-landscape)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
-
 
 ## Introduction
 
@@ -25,7 +23,7 @@ The goal of this guide is to provide resources for building, optimizing, and dep
 
 ### Key Concepts
 
-Industry Landscape:
+Industry Landscape
 - **Autonomous Systems**
 - **Healthcare & Medical Imaging**
 - **Retail & Consumer Analytics**
