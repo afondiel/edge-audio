@@ -23,7 +23,7 @@ A practical guide for real-world AI audio applications for resource-constrained 
 
 The goal of this guide is to provide resources for building, optimizing, and deploying AI audio applications at the edge, through hands-on examples including practical notebooks and real-world use cases across key industries.
 
-### Core Concepts Covered
+### Key Concepts
 
 Industry Landscape:
 - **Autonomous Systems**
