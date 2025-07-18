@@ -2,7 +2,7 @@
 
 # Edge Audio :studio_microphone: | A Practical Guide
 
-A practical guide for real-world AI audio applications for resource-constrained devices with industry standards in mind.
+A practical guide for real-world and efficient AI audio applications for resource-constrained devices with industry standards in mind.
 
 ## New to Edge AI? 
 
